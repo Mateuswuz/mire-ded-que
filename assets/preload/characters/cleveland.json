@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				9
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-28
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				224
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				11
+			],
+			"anim": "you",
+			"fps": 24,
+			"name": "you",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				11
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "ALT-IDLE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cleveland4",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "clev1",
+	"flip_x": false,
+	"healthbar_colors": [
+		245,
+		228,
+		114
+	],
+	"camera_position": [
+		-20,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 0.999999999999999
+}
